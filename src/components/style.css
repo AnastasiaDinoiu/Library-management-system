@@ -1,0 +1,71 @@
+.deleteButton {
+    background-color: #AD2831 !important;
+    border-color: #AD2831 !important;
+}
+
+.deleteButton:hover {
+    background-color: #931017 !important;
+    border-color: #931017 !important;
+}
+
+.message {
+    background-color: #ddf4ff !important;
+    border: 1px solid #a6d9ff;
+    height: 50px;
+}
+
+.closeNotification {
+    margin-top: -4px;
+    transition: 0.5s;
+    height: 30px;
+    width: 30px;
+    float: right;
+    color: #0969da;
+    font-weight: bold;
+    font-size: 18px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.closeNotification2 {
+    color: #e38c8c;
+}
+
+.closeNotification:hover {
+    color: #a6d9ff;
+}
+
+.closeNotification2:hover {
+    color: white;
+}
+
+.message p {
+    text-align: center;
+    padding-top: 12px;
+}
+
+.error {
+    background-color: #f3cece !important;
+    border: 1px solid #e38c8c;
+    height: 50px;
+}
+
+.error p {
+    text-align: center;
+    padding-top: 12px;
+}
+
+.deleteAll {
+    margin-bottom: 10px;
+    float: right;
+}
+
+.updateButton {
+    background-color: #00a7b1 !important;
+    border-color: #00a7b1 !important;
+}
+
+.updateButton:hover {
+    background-color: #00727c !important;
+    border-color: #00727c !important;
+}
